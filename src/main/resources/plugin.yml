@@ -1,0 +1,8 @@
+name: ThrowSwordsREDONE
+version: ${project.version}
+main: com.rocketmail.vaishnavanil.throwswordsredone.ThrowSwordsREDONE
+api-version: 1.14
+prefix: Throw-Swords
+authors: [Vaishnav]
+description: The re-done version of ThrowSwords. Allows you to throw swords in minecraft like in murder mystery on Hypixel
+website: https://github.com/Vshnv

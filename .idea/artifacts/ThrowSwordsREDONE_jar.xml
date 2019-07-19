@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ThrowSwordsREDONE:jar">
+    <output-path>$USER_HOME$/Desktop/Games/Spigot/plugins</output-path>
+    <root id="archive" name="ThrowSwordsREDONE.jar">
+      <element id="module-output" name="ThrowSwordsREDONE" />
+    </root>
+  </artifact>
+</component>
